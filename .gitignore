@@ -16,3 +16,12 @@ coverage/
 *.class
 *.jar
 *.war   
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
