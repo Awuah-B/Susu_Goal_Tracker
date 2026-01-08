@@ -25,3 +25,6 @@ __pycache__/
 .env.development.local
 .env.test.local
 .env.production.local
+goals.json
+deposits.json
+wallet_state.json
